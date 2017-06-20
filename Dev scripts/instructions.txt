@@ -1,0 +1,6 @@
+Welcome to our experiment!
+This is the first line of instructions.
+This is the second line of instructions.
+This is the third line of instructions.
+And now, this is the final line of instructions.
+Press the button box to continue.

@@ -1,0 +1,4 @@
+Welcome to ISSS_test!
+Press "Button1" to advance through instructions.
+Your task is to test this script.
+Press the button box when ready to begin.
